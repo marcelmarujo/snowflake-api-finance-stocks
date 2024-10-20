@@ -2,7 +2,7 @@
 
 Este projeto é uma solução de análise de dados financeiros que utiliza Snowflake para ingestão, processamento e análise de dados de ações do mercado financeiro. Os dados são extraídos de uma API pública (Alpha Vantage) e organizados em três camadas principais: Bronze (Ingestão), Silver (Tratamento) e Gold (Análise).
 
-<img src="requirements/images/Arquitetura.jpg" alt="Arquitetura do Projeto" width="500"/>
+<img src="requirements/images/Arquitetura.jpg" alt="Arquitetura do Projeto" width="700"/>
 
 ## Estrutura do Projeto
 
