@@ -1,0 +1,5 @@
+# Adjusting to SQL 'language' to be recongnized in github
+
+*.sql linguist-detectable=true
+
+*.sql linguist-language=sql
