@@ -20,6 +20,6 @@ Este projeto é uma solução de análise de dados financeiros que utiliza Snowf
 
 ### 3. Arquivo Gold (`gold_layer.py`)
 
-- **Análise avançada**: Realiza análises detalhadas sobre as ações mais negociadas, utilizando funções analíticas para calcular métricas como variação de preço e tendências.
+- **Análise avançada**: Realiza análises sobre as ações mais negociadas, utilizando funções para calcular métricas como variação de preço e tendências.
 - **Agregações e rankings**: Classifica as ações com base no volume total e calcula a média de preço e o desvio padrão dos preços ao longo de períodos definidos.
 - **Criação da tabela de resultados**: Os resultados finais são armazenados na tabela `gold_finance_analytics`, prontos para serem utilizados em visualizações ou relatórios.
